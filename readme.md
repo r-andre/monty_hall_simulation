@@ -1,1 +1,1 @@
-This skript simulates 100,000 instances of the _Let's make a Deal_ game to illustrate the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem). It shows the win percentages when switching the door versus not switching the door.
+This script simulates 100,000 instances of the _Let's make a Deal_ game to illustrate the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem). It shows the win percentages when switching the door versus not switching the door.
